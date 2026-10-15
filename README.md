@@ -20,7 +20,7 @@ The repository contains **nine Jupyter notebooks** and **one Python application*
 | `07_Predictive_Analysis.ipynb` | Classification models (Logistic Regression, SVM, Decision Tree, KNN) and evaluation |
 | `08_Interactive_Dashboard_Plots.ipynb` | Interactive Plotly visualizations |
 | `app.py` | Plotly Dash dashboard (site dropdown, success pie chart, payload slider, payload vs outcome scatter) |
-| `SpaceX_Capstone_Presentation.pdf` / `.pptx` | Presentation slides |
+| `SpaceX_Capstone_Presentation.pdf` | Presentation slides |
 
 ## Tools and technologies
 
